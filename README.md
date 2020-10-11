@@ -10,4 +10,4 @@ I consolidated certain sections and classes that were able in order to make the 
 
 https://andrenajuric.github.io/horiseon-refactor/
 
-![image of horiseon's webpage appearance](./assets/01-html-css-git-homework-demo.png
+![image of horiseon's webpage appearance](./assets/01-html-css-git-homework-demo.png)
